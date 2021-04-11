@@ -1,6 +1,4 @@
 
-Follow the tutorial in these videos:
-  - [Blender Beginner Tutorial—Part 1 (YouTube)](https://www.youtube.com/watch?v=TPrnSACiTJ4)
   - [Part 2, Level 1: Modelling (YouTube)](https://www.youtube.com/watch?v=RaT-uG5wgUw)
   - [Part 3, Level 1: Modifiers (YouTube)](https://www.youtube.com/watch?v=R2qjqqfkH6E)
   - [Part 4, Level 1: Modelling (YouTube)](https://www.youtube.com/watch?v=jmSgsaNSQ6s)
